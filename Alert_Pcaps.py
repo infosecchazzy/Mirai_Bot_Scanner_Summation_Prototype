@@ -26,7 +26,7 @@
 
 ## Purpose:
 
-##      This module will process Pcap files for alerts in Suricata.
+##      This module will generate Suricata command for alerting on Pcap files.
 
 ##      
 
@@ -89,13 +89,13 @@ def alert_pcaps(pcap_dir):
 
             ## create the suricata command 
 
-            suricata_command = "C:/\"Program Files (x86)\"/Suricata/suricata -c suricata.yaml -s mira-bot-scanning.rules "
+            suricata_command = "suricata -c suricata.yaml -s mira-bot-scanning.rules "
             suricata_command = suricata_command + " -r " + pcap_file
         
 
-            print "Suricata Command: ", suricata_command
+            print suricata_command
 
-            os.system(suricata_command)
+            ##os.system(suricata_command)
 
     return 0
 
