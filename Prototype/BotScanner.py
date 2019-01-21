@@ -268,5 +268,5 @@ def dest_subnet( ip_dst ):
     ## Return the /24 subnet
     return dst_sub
 
-
+ 
     
