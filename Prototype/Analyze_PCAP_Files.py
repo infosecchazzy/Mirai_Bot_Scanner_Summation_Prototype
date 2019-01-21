@@ -36,7 +36,7 @@
 ##
 
 import BotScanner as bs
-import os
+import os 
 
 ## Directory for the 2016 PCAP Files
 PCAP_DIR_2016 = "C:/Mirai2016PCAPS"
