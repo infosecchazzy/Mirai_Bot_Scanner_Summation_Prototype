@@ -8,4 +8,4 @@ The folder consists of the following files:
 * BotScanner.py, which contains the functions to perform summation with Mirai Bot Scanning dataset;
 * BotScannerResults.py, which contains the functions for assessment of the Mirai Bot Scanning dataset;
 * Packet_Summary_Questions.py, which provides a summary of the runtime for summating the dataset.
-  
+   
