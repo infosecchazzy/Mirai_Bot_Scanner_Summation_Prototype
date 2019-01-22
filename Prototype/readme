@@ -2,10 +2,10 @@ The prototype directory contains a repository of the Python programs required fo
 summation and assessment components of the Mirai Bot Scanner Summation Prototype.  
 
 The directory consists of the following files:
-  ANSWER_RESEARCH_QUESTIONS.PY FORMATTED TEXT OUTPUT.docx, which contains the assessment for all of the PCAP files of the dataset;
-  Analyze_PCAP_Files.py, a Python module that enumerates the PCAP files for summation;
-  Answer_Research_Questions.py, a module that calls the functions to answer the three research questions;
-  BotScanner.py, which contains the functions to perform summation with Mirai Bot Scanning dataset;
-  BotScannerResults.py, which contains the functions for assessment of the Mirai Bot Scanning dataset;
-  Packet_Summary_Questions.py, which provides a summary of the runtime for summating the dataset.
- 
+* ANSWER_RESEARCH_QUESTIONS.PY FORMATTED TEXT OUTPUT.docx, which contains the assessment for all of the PCAP files of the dataset;
+* Analyze_PCAP_Files.py, a Python module that enumerates the PCAP files for summation;
+* Answer_Research_Questions.py, a module that calls the functions to answer the three research questions;
+* BotScanner.py, which contains the functions to perform summation with Mirai Bot Scanning dataset;
+* BotScannerResults.py, which contains the functions for assessment of the Mirai Bot Scanning dataset;
+* Packet_Summary_Questions.py, which provides a summary of the runtime for summating the dataset.
+  
