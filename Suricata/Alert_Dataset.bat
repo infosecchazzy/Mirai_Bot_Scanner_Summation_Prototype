@@ -36,7 +36,7 @@ suricata -c suricata.yaml -s mirai-bot-scanning.rules  -r C:/MiraiCONVPCAPS/2016
 suricata -c suricata.yaml -s mirai-bot-scanning.rules  -r C:/MiraiCONVPCAPS/2016-09-04.pcap
 suricata -c suricata.yaml -s mirai-bot-scanning.rules  -r C:/MiraiCONVPCAPS/2016-09-05.pcap
 suricata -c suricata.yaml -s mirai-bot-scanning.rules  -r C:/MiraiCONVPCAPS/2016-09-06.pcap
-suricata -c suricata.yaml -s mirai-bot-scanning.rules  -r C:/MiraiCONVPCAPS/2016-09-07.pcap 
+suricata -c suricata.yaml -s mirai-bot-scanning.rules  -r C:/MiraiCONVPCAPS/2016-09-07.pcap  
 suricata -c suricata.yaml -s mirai-bot-scanning.rules  -r C:/MiraiCONVPCAPS/2016-09-08.pcap
 suricata -c suricata.yaml -s mirai-bot-scanning.rules  -r C:/MiraiCONVPCAPS/2016-09-09.pcap
 suricata -c suricata.yaml -s mirai-bot-scanning.rules  -r C:/MiraiCONVPCAPS/2016-09-10.pcap
