@@ -33,7 +33,7 @@ vars:
     MODBUS_SERVER: "$HOME_NET"
     ENIP_CLIENT: "$HOME_NET"
     ENIP_SERVER: "$HOME_NET"
-
+ 
   port-groups:
     HTTP_PORTS: "80"
     SHELLCODE_PORTS: "!80"
