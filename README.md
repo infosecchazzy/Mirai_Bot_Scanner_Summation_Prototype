@@ -1,16 +1,16 @@
 # Mirai_Bot_Scanner_Summation_Prototype
-Dakota State University (DSU)
-Dissertation Topic: Mirai Bot Scanner Summation Prototype
-Student: Charles V. Frank Jr.
-Doctor of Philosophy in Cyber Operations 
-March 2019
+* Dakota State University (DSU)
+* Dissertation Topic: Mirai Bot Scanner Summation Prototype
+* Student: Charles V. Frank Jr.
+* Doctor of Philosophy in Cyber Operations 
+* March 2019
 
 Dissertation Committee:
-Dr. Wayne Pauli, Faculty Mentor and Chairman
-Dr. Kyle Cronin, Committee Member
-Dr. Stefani K. Hobratsch, Committee Member
-Dr. Austin O’Brien, Committee Member 
-Dr. Yong Wang, Committee Member
+* Dr. Wayne Pauli, Faculty Mentor and Chairman
+* Dr. Kyle Cronin, Committee Member
+* Dr. Stefani K. Hobratsch, Committee Member
+* Dr. Austin O’Brien, Committee Member 
+* Dr. Yong Wang, Committee Member
 
 The repository consists of:
 * a Word document, Ann_Senpai_Statement.docx, which contains 
