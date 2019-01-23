@@ -1,1 +1,9 @@
-This is a test
+The Suricata folder contains the programs and configuration files necessary 
+to produce an alert log of Bots attempting to connect to potential new Bot Victims.
+
+The folder consists of the following files:
+* Alert_Dataset.bat, which is a batch file for calling Suricata to alert on each PCAP file of the Bot scanning dataset;
+* Convert_Pcap.py, which converts the PNCAP files of the Bot scanning dataset to PCAP format;
+* mirai-bot-scanning.rules, which contains the Suricata rule for detecting when 
+  a Bot is attempting to connect to a potential new Bot Victim;
+* suricata.yml, which contains the configuration for the Suricata alert log.
