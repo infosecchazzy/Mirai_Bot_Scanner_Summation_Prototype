@@ -1,7 +1,7 @@
 The Splunk folder contains reports, generated from the experimentation of this dissertation, with Splunk SIEM searches
 of the Suricata alert log containing alerts of Bots attempting to connect to potential new Bot Victims.
 
-The folder contaims:
+The folder contains:
 * Packet_Counts_Suricata_Splunk.csv, which contains network packet counts per PCAP date;
 * Subnets_Suricata_Splunk.csv, which contains potential new Bot Victim subnets per PCAP date;
 * Total_Bots_Suricata_Splunk.csv, which contains Bot and potential new Bot Victim counts per PCAP date.
