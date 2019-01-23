@@ -1,1 +1,1 @@
-alert tcp any any -> any $MIRAI_SCANNING_PORTS (flags:S;)
+alert tcp any any -> any $MIRAI_SCANNING_PORTS (flags:S;) 
