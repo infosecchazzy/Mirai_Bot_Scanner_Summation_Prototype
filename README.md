@@ -22,7 +22,7 @@ The repository consists of:
 * a Prototype folder containing Mirai Bot Scanner Summation Prototype Python programs; 
 * a Splunk folder consisting of reports generated from Splunk searches; 
 * a Suricata folder containing configuration files for alerting on when 
-  a Bot attempts to connect to a potential new Bot Victim.  
+  a Bot attempts to connect to a potential new Bot Victim.   
 
 
 
