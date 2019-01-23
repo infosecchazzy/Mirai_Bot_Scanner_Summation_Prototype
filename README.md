@@ -1,4 +1,4 @@
-# Mirai_Bot_Scanner_Summation_Prototype
+# Mirai Bot Scanner Summation Prototype
 * Dakota State University (DSU)
 * Dissertation Topic: Mirai Bot Scanner Summation Prototype
 * Student: Charles V. Frank Jr.
